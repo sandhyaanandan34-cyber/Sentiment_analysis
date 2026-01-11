@@ -4,7 +4,7 @@ Sentiment Analysis
 Overview
 - Develop machine learning models to classify emotions in text samples.
 
-Explanation
+#Explanation
 ## 1. Loading and Preprocessing
 
 We begin by loading the dataset (`nlp_dataset.csv`) which contains text samples labeled with emotions.  
